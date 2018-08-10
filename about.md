@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Aaron Kamoske](https://github.com/akamoske/akamoske.github.io/blob/master/images/Aaron_HARVflux_20170820.jpg)
+![Aaron Kamoske](images/Aaron_HARVflux_20170820.jpg)
 
 I am a PhD student in the [Department of Geography, Environment, and Spatial Sciences at Michigan State University](http://geo.msu.edu/). I'm also a member of [Dr. Kyla Dahlin's](http://geo.msu.edu/people/dahlin-kyla/) [ERSAM LAB](https://www.ersamlab.com/).
 
