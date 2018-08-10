@@ -77,18 +77,27 @@ My research examines the influences of environmental and anthropogenic controls 
 +	Created data using digitization and land cover classification for a set of twelve maps for tiger conservation in India.
 +	Developed Python scripts to automate QA/QC checks for data creation.
 +	Used Adobe Illustrator to produce a master template for map production.
-May. 2014 - Aug. 2015     Range Technician at the Bureau of Land Management
--	Conducted rangeland health and vegetation monitoring surveys across Western Montana (two field seasons).
--	Lead a team of three field technicians to perform a rangeland health survey for a potential wild horse relocation project (one field season).
--	Performed GIS analysis for the rangeland health section of the field station's updated resource management plan (one field season).
-Sept. 2014 - May 2015     Office Support at the Arthur Carhart National Wilderness Center
--	Prepared materials for wilderness management courses.
--	Developed reports about course usage statistics to help inform future course updates.
 
-SPECIALIZED TRAINING AND EDUCATION
-2018      		Phys-Fest 2. Holden Arboretum, Ohio, USA.
--	Ecophysiology field sampling and instrument training.
--	Scientific communications workshop.
+***May. 2014 - Aug. 2015***
+
+**Range Technician at the Bureau of Land Management**
++	Conducted rangeland health and vegetation monitoring surveys across Western Montana (two field seasons).
++	Lead a team of three field technicians to perform a rangeland health survey for a potential wild horse relocation project (one field season).
++	Performed GIS analysis for the rangeland health section of the field station's updated resource management plan (one field season).
+
+***Sept. 2014 - May 2015***
+
+**Office Support at the Arthur Carhart National Wilderness Center**
++	Prepared materials for wilderness management courses.
++	Developed reports about course usage statistics to help inform future course updates.
+
+#### SPECIALIZED TRAINING AND EDUCATION
+
+***2018***
+
+**Phys-Fest 2. Holden Arboretum, Ohio, USA.**
++	Ecophysiology field sampling and instrument training.
++ Scientific communications workshop.
 
 PEER-REVIEWED PUBLICATIONS
 In Preparation:
