@@ -12,7 +12,7 @@ Michigan State University                                                      w
 673 Auditorium Road, Rm 11                                                     tel: (406) 396-2640
 East Lansing, MI 48824                                                         twitter: akamoske
 
-###EDUCATION	
+#### EDUCATION	
 
 Current	PhD Student in Geography, Environment, & Spatial Sciences
         Michigan State University, East Lansing, MI
