@@ -114,35 +114,47 @@ My research examines the influences of environmental and anthropogenic controls 
 
 **Published:**
 
-PRESENTATIONS
-2018	Dahlin KM, Kamoske AG, Serbin SP, and Stark SC. Within-canopy leaf functional traits from airborne remote sensing. The Ecological Society of America Fall Meeting, New Orleans, LA.
-2018	Kasmerchak C, Nyland K, Kamoske A, Breeze V, Bomber M, and R Schaetzle. "Silty-Sand" Eolian Sediment in the Lee of Large Dunes in Michigan's Upper Peninsula. The Geological Society of America North-Central 52nd Annual Meeting, Ames, IA.
-2018	Twardochleb L, Read Q, Zarnetske P, Hitner E, Dalin K, and Kamoske A. Scaling relationships between freshwater insect diversity and the terrestrial environment. The Society of Freshwater Science Annual Meeting, Detroit, MI.
-2017	Kamoske A. Ecological remote sensing: Using computers to ask questions about our     planet. Research Experiences for Undergraduates (REU), Spatial and Community Ecology Lab Presentation, East Lansing, MI.
-2017	Kamoske A. From Leaf to Landscape: Ecological remote sensing of forest function and structure. Michigan State University's Department of Geography, Environment, and Spatial Sciences: Colloquium Presentation (Straight-to-PhD partial-fulfillment), East Lansing, MI.	
-2016	Dahlin KM, Swenson SC, Lombardozzi D & A Kamoske. Seasonality of semi-arid and savanna-type ecosystems in an Earth system model. American Geophysical Union (AGU) Fall Meeting, San Francisco, CA.
+#### PRESENTATIONS
 
-FIELD EXPERIENCE 
-2018	Holden Arboretum, Kirtland, Ohio, USA. Field based ecophysiology sampling of tree canopy water and energy exchange. 
-2018	Harvard Forest, Massachusetts, USA. Foliar sampling for chemical analysis, species mapping, and hemispherical photography.
-2018	Mountain Lake Biological State, Virginia, USA. Foliar sampling for chemical analysis, species mapping, and hemispherical photography.
-2018	Oak Ridge National Laboratory, Tennessee, USA. Foliar sampling for chemical analysis, species mapping, and hemispherical photography.
-2018	Talladega National Forest, Alabama, USA. Foliar sampling for chemical analysis, species mapping, and hemispherical photography.
-2017	Harvard Forest, Massachusetts USA. Foliar sampling for chemical analysis, species mapping, and hemispherical photography.
-2017	Smithsonian Environmental Research Center, Maryland USA. Foliar sampling for chemical analysis, species mapping, and hemispherical photography.
-2016	Bureau of Land Management, Western Montana USA. Invasive plant surveys, long-term vegetation monitoring, and habitat typing 
-2015	Bureau of Land Management, Western Montana USA. Invasive plant surveys, long-term vegetation monitoring, and habitat typing
++ Dahlin KM, Kamoske AG, Serbin SP, and Stark SC. 2018. Within-canopy leaf functional traits from airborne remote sensing. The Ecological Society of America Fall Meeting, New Orleans, LA.
++ Kasmerchak C, Nyland K, Kamoske A, Breeze V, Bomber M, and R Schaetzle. 2018. "Silty-Sand" Eolian Sediment in the Lee of Large Dunes in Michigan's Upper Peninsula. The Geological Society of America North-Central 52nd Annual Meeting, Ames, IA.
++ Twardochleb L, Read Q, Zarnetske P, Hitner E, Dalin K, and Kamoske A. 2018. Scaling relationships between freshwater insect diversity and the terrestrial environment. The Society of Freshwater Science Annual Meeting, Detroit, MI.
++ Kamoske A. 2017. Ecological remote sensing: Using computers to ask questions about our planet. Research Experiences for Undergraduates (REU), Spatial and Community Ecology Lab Presentation, East Lansing, MI.
++ Kamoske A. 2017. From Leaf to Landscape: Ecological remote sensing of forest function and structure. Michigan State University's Department of Geography, Environment, and Spatial Sciences: Colloquium Presentation (Straight-to-PhD partial-fulfillment), East Lansing, MI.	
++ Dahlin KM, Swenson SC, Lombardozzi D & A Kamoske. 2016. Seasonality of semi-arid and savanna-type ecosystems in an Earth system model. American Geophysical Union (AGU) Fall Meeting, San Francisco, CA.
 
-TEACHING EXPERIENCE
-Graduate Teaching Assistant, Michigan State University
--	Geography 424: Advanced Remote Sensing.
-	Spring 2017, 2018
-???	Proctor and grade class exams, quizzes, and lab assignments.
-???	Guest lecture on selected topics.
-Lab Instruction, Michigan State University
--	Geography 424: Advanced Remote Sensing.
-	Spring 2017, 2018
-???	Teach two weekly lab sessions on processing and analyzing remote sensing data using ERDAS Imagine, ArcMap, and R.
+#### FIELD EXPERIENCE 
+
+*2018*
+
++ Holden Arboretum, Kirtland, Ohio, USA. Field based ecophysiology sampling of tree canopy water and energy exchange. 
++ Harvard Forest, Massachusetts, USA. Foliar sampling for chemical analysis, species mapping, and hemispherical photography.
++ Mountain Lake Biological State, Virginia, USA. Foliar sampling for chemical analysis, species mapping, and hemispherical photography.
++ Oak Ridge National Laboratory, Tennessee, USA. Foliar sampling for chemical analysis, species mapping, and hemispherical photography.
++	Talladega National Forest, Alabama, USA. Foliar sampling for chemical analysis, species mapping, and hemispherical photography.
+
+*2017*
++	Smithsonian Environmental Research Center, Maryland USA. Foliar sampling for chemical analysis, species mapping, and hemispherical photography.
++ Harvard Forest, Massachusetts USA. Foliar sampling for chemical analysis, species mapping, and hemispherical photography.
+
+*2016*
++	Bureau of Land Management, Western Montana USA. Invasive plant surveys, long-term vegetation monitoring, and habitat typing 
+
+*2015*
++	Bureau of Land Management, Western Montana USA. Invasive plant surveys, long-term vegetation monitoring, and habitat typing
+
+#### TEACHING EXPERIENCE
+
+*Graduate Teaching Assistant, Michigan State University*
++	Geography 424: Advanced Remote Sensing. 
+* Spring 2017, 2018.
+- Proctor and grade class exams, quizzes, and lab assignments.
+- Guest lecture on selected topics.
+
+*Lab Instruction, Michigan State University*
++	Geography 424: Advanced Remote Sensing.
+* Spring 2017, 2018
+-	Teach two weekly lab sessions on processing and analyzing remote sensing data using ERDAS Imagine, ArcMap, and R.
 
   WORKSHOPS DEVELOPED
 2017	Nagelkirk, R & A Kamoske. Practical Programming with R. Three-session course covering analysis with rasters, shapefiles, point data, and CSV spreadsheets for 25 graduate students at Michigan State University.
