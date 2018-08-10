@@ -7,26 +7,39 @@ permalink: /cv/
 You can [view my CV here]({{akamoske.github.io}}/images/Kamoske_CV_Working_20180807.pdf).
 
 ### Aaron Kamoske
-Department of Geography                                                        email: akamoske@gmail.com              
-Michigan State University                                                      web: akamoske.github.io
-673 Auditorium Road, Rm 11                                                     tel: (406) 396-2640
-East Lansing, MI 48824                                                         twitter: akamoske
+Department of Geography........................................................email: akamoske@gmail.com              
+Michigan State University......................................................web: akamoske.github.io
+673 Auditorium Road, Rm 11.....................................................tel: (406) 396-2640
+East Lansing, MI 48824.........................................................twitter: akamoske
 
 #### EDUCATION	
 
-Current	PhD Student in Geography, Environment, & Spatial Sciences
-        Michigan State University, East Lansing, MI
-        Dissertation title: From leaf to landscape: Ecological remote sensing of forest function and structure.
-        Committee: Kyla Dahlin, Scott Stark, Ashton Shortridge, David Rothstein
+***Current***	
 
-	2015	B.S. in Natural Resource Conservation.
+PhD Student in Geography, Environment, & Spatial Sciences
+Michigan State University, East Lansing, MI
+
+Dissertation title: From leaf to landscape: Ecological remote sensing of forest function and structure.
+
+Committee: Kyla Dahlin, Scott Stark, Ashton Shortridge, David Rothstein
+
+***2015***
+
+B.S. in Natural Resource Conservation.
 University of Montana, College of Forestry, Missoula, MT
+
 Advisor: Kevin McManigal
 		
 
-CERTIFICATIONS	2018	Spatial Ecology: Michigan State University, Department of Forestry. 
-Graduate Certificate.
-	2015	GIS Sciences and Technology: University of Montana, Department of Geography. Undergraduate Certificate.
+#### CERTIFICATIONS	
+
+***2018***	
+
+Spatial Ecology Graduate Certificate: Michigan State University, Department of Forestry. 
+
+***2015***	
+
+GIS Sciences and Technology Undergraduate Certificate: University of Montana, Department of Geography. 
 		
 RESEARCH FOCUS
 My research examines the influences of environmental and anthropogenic controls on terrestrial ecosystem processes using hyperspectral and LiDAR remote sensing, spatial statistics, ecological modeling, and field sampling. While my work primarily focuses on forest ecosystems, I also maintain an interest in grasslands and semi-arid ecosystems.
