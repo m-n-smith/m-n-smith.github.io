@@ -7,10 +7,10 @@ permalink: /cv/
 You can [view my CV here]({{akamoske.github.io}}/images/Kamoske_CV_Working_20180807.pdf).
 
 ### Aaron Kamoske
-Department of Geography........................................................email: akamoske@gmail.com              
-Michigan State University......................................................web: akamoske.github.io
-673 Auditorium Road, Rm 11.....................................................tel: (406) 396-2640
-East Lansing, MI 48824.........................................................twitter: akamoske
+Department of Geography              
+Michigan State University
+673 Auditorium Road, Rm 11
+East Lansing, MI 48824
 
 #### EDUCATION	
 
@@ -41,11 +41,15 @@ Spatial Ecology Graduate Certificate: Michigan State University, Department of F
 
 GIS Sciences and Technology Undergraduate Certificate: University of Montana, Department of Geography. 
 		
-RESEARCH FOCUS
+#### RESEARCH FOCUS
+
 My research examines the influences of environmental and anthropogenic controls on terrestrial ecosystem processes using hyperspectral and LiDAR remote sensing, spatial statistics, ecological modeling, and field sampling. While my work primarily focuses on forest ecosystems, I also maintain an interest in grasslands and semi-arid ecosystems.
 
-POSITIONS HELD
-Aug. 2016 - present            Teaching Assistant at Michigan State University: GEO424 Advanced Remote Sensing
+#### POSITIONS HELD
+
+***Aug. 2016 - present***
+
+*Teaching Assistant at Michigan State University: GEO424 Advanced Remote Sensing*
 -	Teach two weekly lab sessions on processing and analyzing remote sensing data using ERDAS Imagine, ArcMap, and R.
 -	Proctor and grade class exams, quizzes, and lab assignments.
 -	Guest lecture on selected topics.
