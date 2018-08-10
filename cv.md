@@ -4,8 +4,5 @@ title: CV
 permalink: /cv/
 ---
 
-Future link to my CV.
+you can [get the PDF]({{akamoske.github.io}}/images/Kamoske_CV_Working_20180807.pdf) directly.
 
-### Contact me
-
-[akamoske@gmail.com.com](mailto:akamoske@gmail.com)
