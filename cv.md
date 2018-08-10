@@ -6,7 +6,7 @@ permalink: /cv/
 
 You can [view my CV here]({{akamoske.github.io}}/images/Kamoske_CV_Working_20180807.pdf).
 
-## Aaron Kamoske
+### Aaron Kamoske
 Department of Geography                                                        email: akamoske@gmail.com              
 Michigan State University                                                      web: akamoske.github.io
 673 Auditorium Road, Rm 11                                                     tel: (406) 396-2640
