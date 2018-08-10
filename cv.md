@@ -6,16 +6,18 @@ permalink: /cv/
 
 You can [view my CV here]({{akamoske.github.io}}/images/Kamoske_CV_Working_20180807.pdf).
 
-###Aaron Kamoske
+## Aaron Kamoske
 Department of Geography                                                        email: akamoske@gmail.com              
 Michigan State University                                                      web: akamoske.github.io
 673 Auditorium Road, Rm 11                                                     tel: (406) 396-2640
 East Lansing, MI 48824                                                         twitter: akamoske
 
-EDUCATION	Current	PhD Student in Geography, Environment, & Spatial Sciences
-Michigan State University, East Lansing, MI
-Dissertation title: From leaf to landscape: Ecological remote sensing of forest function and structure.
-Committee: Kyla Dahlin, Scott Stark, Ashton Shortridge, David Rothstein
+###EDUCATION	
+
+Current	PhD Student in Geography, Environment, & Spatial Sciences
+        Michigan State University, East Lansing, MI
+        Dissertation title: From leaf to landscape: Ecological remote sensing of forest function and structure.
+        Committee: Kyla Dahlin, Scott Stark, Ashton Shortridge, David Rothstein
 
 	2015	B.S. in Natural Resource Conservation.
 University of Montana, College of Forestry, Missoula, MT
