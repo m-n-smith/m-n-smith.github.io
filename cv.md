@@ -156,22 +156,32 @@ My research examines the influences of environmental and anthropogenic controls 
 * Spring 2017, 2018
 -	Teach two weekly lab sessions on processing and analyzing remote sensing data using ERDAS Imagine, ArcMap, and R.
 
-  WORKSHOPS DEVELOPED
-2017	Nagelkirk, R & A Kamoske. Practical Programming with R. Three-session course covering analysis with rasters, shapefiles, point data, and CSV spreadsheets for 25 graduate students at Michigan State University.
+#### WORKSHOPS DEVELOPED
 
-SERVICE & LEADERSHIP
-Mentoring
--	Mentored two undergraduate students in using remote sensing for ecological research, field data collection, graduate school applications, resume preparation, and career goals (2017, 2018).
-Manuscript Reviewer for:
--	2018: 1 review
-	Natural Areas (1)
-   Service
--	Building Committee Liaison for the Geography Graduate Group (2016-2017)
+*2017*	
 
-HONORS AND AWARDS
-2018	Michigan State University Graduate Office Fellowship. Funding for summer dissertation research. $1000.
-2018	Ecophysiology-Fest 2 Travel Award. Funding for travel to and from training workshop. $500.
-2017	Michigan State University Graduate Office Fellowship. Funding for summer dissertation research. $800.
-2015	Graduated with High Honors. University of Montana, College of Forestry.
++ Nagelkirk, R & A Kamoske. Practical Programming with R. Three-session course covering analysis with rasters, shapefiles, point data, and CSV spreadsheets for 25 graduate students at Michigan State University.
 
+#### SERVICE & LEADERSHIP
 
+*Mentoring*
++	Mentored two undergraduate students in using remote sensing for ecological research, field data collection, graduate school applications, resume preparation, and career goals (2017, 2018).
+
+*Manuscript Reviewer for:*
++	2018: 1 review
+* Natural Areas (1)
+
+*Service*
++	Building Committee Liaison for the Geography Graduate Group (2016-2017)
+
+#### HONORS AND AWARDS
+
+*2018*
++ Michigan State University Graduate Office Fellowship. Funding for summer dissertation research. $1000.
++	Ecophysiology-Fest 2 Travel Award. Funding for travel to and from training workshop. $500.
+
+*2017*
++	Michigan State University Graduate Office Fellowship. Funding for summer dissertation research. $800.
+
+*2015*
++	Graduated with High Honors. University of Montana, College of Forestry.
