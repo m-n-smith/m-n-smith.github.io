@@ -49,25 +49,34 @@ My research examines the influences of environmental and anthropogenic controls 
 
 ***Aug. 2016 - present***
 
-*Teaching Assistant at Michigan State University: GEO424 Advanced Remote Sensing*
--	Teach two weekly lab sessions on processing and analyzing remote sensing data using ERDAS Imagine, ArcMap, and R.
--	Proctor and grade class exams, quizzes, and lab assignments.
--	Guest lecture on selected topics.
-Aug. 2016 - present            Research Assistant at Michigan State University
--	Process, analyze, and visualize large LiDAR and hyperspectral datasets (G-LiHT, NEON AOP) for research projects focused on leaf traits and forest productivity at landscape scales using the R programming language and ENVI.
--	Process fine to moderate resolution, remote sensing datasets (Landsat, MODIS) for various research projects focused on the effects of environmental controls on biodiversity at continental scales using the R and Python programming languages. 
--	Designed and completed two field campaigns to collect around 1000 leaf samples from five research sites across a latitidual gradient in the temperate forests of the eastern United States. 
--	Processed leaf samples for chemical analysis using a CN elemental analyzer.
--	Apply statistical methods to derive inferences about ecological phenomena.
--	Collaborate on research projects with fellow graduate students, post-docs, and faculty. 
-Mar. 2016 - Aug. 2016     Lead Cartographer at Panthera / University of Montana
--	Managed a dozen students working to create a set of fourteen topographic maps for tiger conservation in Nepal.
--	Mentored and trained student cartographers in using ArcMap for data creation and Adobe Photoshop and Illustrator for production cartography.
--	Delivered maps ahead of schedule and below cost.
-Mar. 2015 - Mar. 2016     GIS Technician at Panthera / University of Montana
--	Created data using digitization and land cover classification for a set of twelve maps for tiger conservation in India.
--	Developed Python scripts to automate QA/QC checks for data creation.
--	Used Adobe Illustrator to produce a master template for map production.
+**Teaching Assistant at Michigan State University: GEO424 Advanced Remote Sensing**
++	Teach two weekly lab sessions on processing and analyzing remote sensing data using ERDAS Imagine, ArcMap, and R.
++	Proctor and grade class exams, quizzes, and lab assignments.
++	Guest lecture on selected topics.
+
+***Aug. 2016 - present***
+
+**Research Assistant at Michigan State University**
++	Process, analyze, and visualize large LiDAR and hyperspectral datasets (G-LiHT, NEON AOP) for research projects focused on leaf traits and forest productivity at landscape scales using the R programming language and ENVI.
++	Process fine to moderate resolution, remote sensing datasets (Landsat, MODIS) for various research projects focused on the effects of environmental controls on biodiversity at continental scales using the R and Python programming languages. 
++	Designed and completed two field campaigns to collect around 1000 leaf samples from five research sites across a latitidual gradient in the temperate forests of the eastern United States. 
++	Processed leaf samples for chemical analysis using a CN elemental analyzer.
++	Apply statistical methods to derive inferences about ecological phenomena.
++	Collaborate on research projects with fellow graduate students, post-docs, and faculty. 
+
+***Mar. 2016 - Aug. 2016***
+
+**Lead Cartographer at Panthera / University of Montana**
++	Managed a dozen students working to create a set of fourteen topographic maps for tiger conservation in Nepal.
++	Mentored and trained student cartographers in using ArcMap for data creation and Adobe Photoshop and Illustrator for production cartography.
++	Delivered maps ahead of schedule and below cost.
+
+***Mar. 2015 - Mar. 2016***
+
+**GIS Technician at Panthera / University of Montana**
++	Created data using digitization and land cover classification for a set of twelve maps for tiger conservation in India.
++	Developed Python scripts to automate QA/QC checks for data creation.
++	Used Adobe Illustrator to produce a master template for map production.
 May. 2014 - Aug. 2015     Range Technician at the Bureau of Land Management
 -	Conducted rangeland health and vegetation monitoring surveys across Western Montana (two field seasons).
 -	Lead a team of three field technicians to perform a rangeland health survey for a potential wild horse relocation project (one field season).
