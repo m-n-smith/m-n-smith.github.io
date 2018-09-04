@@ -1,11 +1,11 @@
 ---
-layout: post
+  layout: post
 title: 2018 Field Season
 ---
-
-*This past Foliar 4D field season has been very successful!*
-
-This year I traveled to [Talladega National Forest in Alabama](https://www.fs.usda.gov/detail/alabama/about-forest/districts/?cid=fsbdev3_002555), [Oak Ridge National Laboratory in Tennessee](https://www.ornl.gov/), [Mountain Lake Biological Station in Virginia](https://mlbs.virginia.edu/), and [Harvard Forest in Massachusetts](http://harvardforest.fas.harvard.edu/). Our team collected over 500 foliar samples from the dominate species at each site and at different heights within the canopy. These data will be used to develop ecological models to better predict within canopy nutrient concentrations and ultimately forest productivity. 
+  
+  *This past Foliar 4D field season has been very successful!*
+  
+  This year I traveled to [Talladega National Forest in Alabama](https://www.fs.usda.gov/detail/alabama/about-forest/districts/?cid=fsbdev3_002555), [Oak Ridge National Laboratory in Tennessee](https://www.ornl.gov/), [Mountain Lake Biological Station in Virginia](https://mlbs.virginia.edu/), and [Harvard Forest in Massachusetts](http://harvardforest.fas.harvard.edu/). Our team collected over 500 foliar samples from the dominate species at each site and at different heights within the canopy. These data will be used to develop ecological models to better predict within canopy nutrient concentrations and ultimately forest productivity. 
 
 All packed u!p and ready to go.
 ![Aaron Kamoske](/images/Aaron_Kamoske_Packing.jpg){:class="img-responsive"}
@@ -28,7 +28,7 @@ After we collect and dry the samples, there is still a lot of work left to get n
 ![Aaron Kamoske](/images/Aaron_Kamoske_CN.jpg){:class="img-responsive"}
 
 At the end of the day, I feel very lucky to be able to spend so much time outside in these beautiful places!
-![Aaron Kamoske](/images/Aaron_Kamoske_MLBS.jpg){:class="img-responsive"}
+  ![Aaron Kamoske](/images/Aaron_Kamoske_MLBS.jpg){:class="img-responsive"}
 ![Aaron Kamoske](/images/AaronKamoske_TallField.jpg){:class="img-responsive"}
 ![Aaron Kamoske](/images/AaronKamoske_forestLight.jpg){:class="img-responsive"}
 ![Aaron Kamoske](/images/AaronKamoske_HARV.jpg){:class="img-responsive"}
