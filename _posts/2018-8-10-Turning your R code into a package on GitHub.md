@@ -7,7 +7,7 @@ title: Turning your R code into a package
 
 First you need to install and then load a couple of packages.
 
-```
+```ruby
 install.packages("devtools")   
 install.packages("roxygen2")   
 
