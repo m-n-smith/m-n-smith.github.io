@@ -15,7 +15,7 @@ library(devtools)
 library(roxygen2) 
 {% end highlight %}
 
-Next, set the folder where you want to create your package. I usually just set the working directory.
+Next, set the folder where you want to create your package. I usually just set the working directory...
 
 `setwd("./NameOfTheFolderToPutYourPackageIn")`   
 
