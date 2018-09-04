@@ -17,7 +17,9 @@ library(roxygen2)
 
 Next, set the folder where you want to create your package. I usually just set the working directory...
 
-`setwd("./NameOfTheFolderToPutYourPackageIn")`   
+```ruby
+setwd("./NameOfTheFolderToPutYourPackageIn")
+```
 
 Now we can create all the files needed to create the package.
 
