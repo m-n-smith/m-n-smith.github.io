@@ -7,7 +7,7 @@ title: Turning your R code into a package
 
 First you need to install and then load a couple of packages.
 
-```
+```ruby
 install.packages("devtools")   
 install.packages("roxygen2")   
 
@@ -17,19 +17,19 @@ library(roxygen2)
 
 Next, set the folder where you want to create your package. I usually just set the working directory...
 
-```
+```ruby
 setwd("./NameOfTheFolderToPutYourPackageIn")
 ```
 
 Now we can create all the files needed to create the package.
 
-```
+```ruby
 devtools::create("NameOfYourPackage")
 ```
 
 All the files that you need should now be in your folder. Open the DESCRIPTION file in RStudio so that you can edit the appropriate lines. It should look like this:
 
-```
+```ruby
 Package: Name of your package
 Title: Give it a short title that explains your package   
 Version: 1.0
@@ -46,7 +46,7 @@ RoxygenNote: 6.0.1
 Now that the DESCRIPTION file is set, we can load our R functions (as individual R scripts) into the R folder that was created by the above line of code.
 Next, open the R script because we need to add a couple of lines of code to the top so that there will be help documentation when the package is downloaded. These are the lines we need to add:
 
-```
+```ruby
 #' Insert a short description about what this function does.  
 #' 
 #' Insert a longer description about this function; what it does, how it works, any references, etc.  
@@ -58,13 +58,13 @@ Next, open the R script because we need to add a couple of lines of code to the 
 
 Now that these lines are added to the top of the function there are just a couple more steps to complete the process. First, we need to set the working directory to the actually folder that the package is in.
 
-```
+```ruby
 setwd("./The folder your package is in")
 ```
 
 Then we can run this line so that a markdown document is created for the function.
 
-```
+```ruby
 devtools::document()
 ```
 
