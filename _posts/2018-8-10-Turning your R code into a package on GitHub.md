@@ -46,21 +46,27 @@ RoxygenNote: 6.0.1
 Now that the DESCRIPTION file is set, we can load our R functions (as individual R scripts) into the R folder that was created by the above line of code.
 Next, open the R script because we need to add a couple of lines of code to the top so that there will be help documentation when the package is downloaded. These are the lines we need to add:
 
-`#' Insert a short description about what this function does.`   
-`#'`   
-`#' Insert a longer description about this function; what it does, how it works, any references, etc.`   
-`#'`   
-`#' @param NAME.OF.THE.FUNCTION.PARAMETER insert a short description of what the parament is`   
-`#' @return A short description of what is returned by the function`   
-`#' @export`   
+```ruby
+#' Insert a short description about what this function does.  
+#' 
+#' Insert a longer description about this function; what it does, how it works, any references, etc.  
+#'  
+#' @param NAME.OF.THE.FUNCTION.PARAMETER insert a short description of what the parament is   
+#' @return A short description of what is returned by the function  
+#' @export
+```
 
 Now that these lines are added to the top of the function there are just a couple more steps to complete the process. First, we need to set the working directory to the actually folder that the package is in.
 
-`setwd("./The folder your package is in")`   
+```ruby
+setwd("./The folder your package is in")
+```
 
 Then we can run this line so that a markdown document is created for the function.
 
-`devtools::document()`   
+```ruby
+devtools::document()
+```
 
 Now your just need to push your package to GitHub using whichever method you prefer, I've been using GitHut Desktop lately.
 
