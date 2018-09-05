@@ -225,14 +225,14 @@ nav {
 
   a {
     margin-left: 20px;
-    color: #3B3B3B;
+    color: #2C6E91;
     text-align: right;
-    font-weight: 300;
-    letter-spacing: 1.5px;
+    font-weight: 500;
+    letter-spacing: 2px;
 
     @include mobile {
       margin: 0 10px;
-      color: #3B3B3B;
+      color: #2C6E91;
     }
   }
 }
