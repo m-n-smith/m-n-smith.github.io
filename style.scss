@@ -202,7 +202,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: #3B3B3B;
+  color: #585558;
   font-size: 16px;
 
   @include mobile {
@@ -225,14 +225,14 @@ nav {
 
   a {
     margin-left: 20px;
-    color: #2C6E91;
+    color: #3B3B3B;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1.5px;
 
     @include mobile {
       margin: 0 10px;
-      color: #2C6E91;
+      color: #3B3B3B;
     }
   }
 }
