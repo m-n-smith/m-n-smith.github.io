@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About Me
+order: 1
 ---
 
 ![Aaron Kamoske](images/Aaron_HARVflux_20170820.jpg)
