@@ -6,7 +6,7 @@ order: 1
 
 ![Aaron Kamoske](images/Aaron_HARVflux_20170820.jpg)
 
-I am a PhD student in the [Department of Geography, Environment, and Spatial Sciences at Michigan State University](http://geo.msu.edu/). I'm also a member of [Dr. Kyla Dahlin's](http://geo.msu.edu/people/dahlin-kyla/) [ERSAM LAB](https://www.ersamlab.com/).
+I am a PhD candidate in the [Department of Geography, Environment, and Spatial Sciences at Michigan State University](http://geo.msu.edu/). I'm also a member of [Dr. Kyla Dahlin's](http://geo.msu.edu/people/dahlin-kyla/) [ERSAM LAB](https://www.ersamlab.com/).
 
 I earned my [B.S. in Resource Conservation](https://www.cfc.umt.edu/undergrad/rc/default.php) and a [certificate in GIS Science and Technologies](https://www.cfc.umt.edu/giscertificate/) from the [University of Montana's College of Forestry](https://www.cfc.umt.edu/default.php) in 2015. During and following my undergraduate work, I worked on [vegetation monitoring projects in the Northern Rockies](https://www.blm.gov/montana-dakotas), as a [cartographer for an international NGO](https://www.panthera.org/), as an [office support staff for a Wilderness training center](https://carhart.wilderness.net/), and at [a cheese store](https://www.goodfoodstore.com/Departments/Cheese/).
 
