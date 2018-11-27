@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Presentations
-permalink: /Presentations/
+permalink: /presentations/
 ---
 
 Presentations and Posters  (in the works).
