@@ -8,7 +8,7 @@ permalink: /publications/
 
 **Published Manuscripts**
 
-**Kamoske, A.G.**, Dahlin K.M., Stark, S.C., Serbin, S.P., 2019. Leaf area density from airborne LiDAR: Comparing sensors and resolutions in a temperate broadleaf forest ecosystem. Forest Ecology and Managment 433, 364-375. [LINK](https://doi.org/10.1016/j.foreco.2018.11.017)
+**Kamoske, A.G.**, Dahlin K.M., Stark, S.C., Serbin, S.P., 2019. Leaf area density from airborne LiDAR: Comparing sensors and resolutions in a temperate broadleaf forest ecosystem. Forest Ecology and Managment 433, 364-375. [Article Link](https://doi.org/10.1016/j.foreco.2018.11.017)
 
 **In Review/Revision**
 
