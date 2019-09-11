@@ -9,4 +9,4 @@ Last year I attended [PhysFest](https://www.k-state.edu/ecophyslab/phys_fest_2.h
 
 [You can watch there interview here!](https://youtu.be/ovlodZRAW8w?t=268)
 
-![PhysFest Youtube Link](/images/Youtube_Link.jpg)]{:class="img-responsive"}
+![PhysFest Youtube Link](/images/Youtube_Link.jpg){:class="img-responsive"}
