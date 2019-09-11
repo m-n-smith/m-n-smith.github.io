@@ -4,9 +4,13 @@ title: Presentations and Posters
 permalink: /presentations/
 ---
 
+## 2019
+
 + Bond-Lambert BP, Gough CM, Shiklomanov AN, Atkins JW, Haber L, Mathes KC, Grigri M, Tallant J, **Kamoske AG**, and Dahlin KM. 2019. Linking field, model, and remote sensing methods to understand when tree mortality breaks the forest carbon cycle. AGU Fall Meeting, San Francisco, CA.
 
 + Dahlin, KM, **Kamoske AG**, Serbin SP, and Stark SC. 2019. Ecosystems in Four Dimensions: Measuring changes to forest structure and function in the Anthropocene. NSF Macrosystems Biology Annual Meeting, Boulder, CO.
+
+## 2018
 
 + **Kamoske AG**, Dahlin KM, Stark SC, and Serbin SP. 2018. Leaf area density from airborne LiDAR: Comparing sensors and resolutions in a forest ecosystem. ForestSat, College Park, MD. [You can view the poster here.]({{akamoske.github.io}}/images/Kamoske_ForestSat_Poster_ERSAMlab_20181008.pdf)
 
@@ -18,9 +22,13 @@ permalink: /presentations/
 
 + Twardochleb L, Read Q, Zarnetske P, Hitner E, Dahlin K, and **Kamoske AG**. 2018. Scaling relationships between freshwater insect diversity and the terrestrial environment. Society of Freshwater Science Annual Meeting, Detroit, MI.
 
+## 2017
+
 + **Kamoske AG**. 2017. Ecological remote sensing: Using computers to ask questions about our planet. Spatial and Community Ecology Lab Presentation for the Research Experiences for Undergraduates Program at Michigan State University, East Lansing, MI.
 
 + **Kamoske AG**. 2017. From leaf to landscape: Ecological remote sensing of forest function and structure. Department of Geography Colloquium Presentation, East Lansing, MI.
+
+## 2016
 
 + Dahlin KM, Swenson SC, Lombardozzi D, and **Kamoske AG**. 2016. Seasonality of semi-arid and savanna-type ecosystems in an Earth system model. American Geophysical Union Fall Meeting, San Francisco, CA. [You can view the abstract here.](http://adsabs.harvard.edu/abs/2016AGUFM.B32C..05D)
 
