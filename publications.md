@@ -6,7 +6,7 @@ permalink: /publications/
 
 You can view my [Google Scholar Profile here](https://scholar.google.com/citations?user=2m1RgqcAAAAJ&hl=en&oi=ao).
 
-*([Q# - Category] = Quartile from [Scimago Journal Rank](ww.scimagojr.com) in specific category for publication year*
+*[Q# - Category] = Quartile from [Scimago Journal Rank](ww.scimagojr.com) in specific category for publication year*
 
 ## **Published Manuscripts**
 
