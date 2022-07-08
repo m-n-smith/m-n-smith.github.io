@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Masters funding opportunity
-date: 2022-07-08 12:17:00 -0000
-categories: CATEGORY-1 CATEGORY-2
 ---
 
 
