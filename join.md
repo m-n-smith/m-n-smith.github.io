@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Join us
-permalink: /join/
+permalink: https://m-n-smith.github.io/join
 ---
 
 
