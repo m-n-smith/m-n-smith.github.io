@@ -4,7 +4,7 @@ title: About Me
 order: 1
 ---
 
-![Aaron Kamoske](images/Aaron_HARVflux_20170820.jpg)
+![Aaron Kamoske](images/IMG_1692.jpg)
 
 I am a remote sensing specialist at the USDA Forest Service.
 
