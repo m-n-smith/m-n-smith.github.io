@@ -10,3 +10,10 @@ I am a broadly trained ecosystem ecologist, driven to understand the fate of tro
 from remote sensing to field observations, within the context of large, international collaborations.
 
 I am currently a Senior Research Associate at the Deptartment of Forestry, Michigan State University (USA) working in [Scott Stark's Tropical Forest Ecology lab](https://www.canr.msu.edu/people/sstark). In August (2022) I will start a Lecturership position in the Forest Sciences group at Bangor University (Wales, UK). 
+
+## Contact
+
+Email: marielle.smith@bangor.ac.uk
+Twitter: @marielle_smith1
+
+
