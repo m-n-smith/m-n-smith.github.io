@@ -23,6 +23,6 @@ Forest canopy structure—the size, quantity, and spatial arrangement of trees a
 
 <ins>To apply</ins>: Please send your CV and a brief statement describing your research interests and background to marielle.smith@bangor.ac.uk. 
 
-![Marielle Smith](images/IMG_2227.jpg)
+<img src="m-n-smith.github.io/images/IMG_2227.jpg" alt="Marielle Smith">
 
 
