@@ -4,10 +4,9 @@ title: About Me
 order: 1
 ---
 
-![Aaron Kamoske](images/IMG_1692.jpg)
+![Marielle Smith](images/IMG_1692.jpg)
 
-I am a remote sensing specialist at the USDA Forest Service.
+I am a broadly trained ecosystem ecologist, driven to understand the fate of tropical forests in the face of global change. The forests of the Amazon basin constitute the world’s largest intact tropical rainforest and are critical to global climate function and biodiversity, as well as providing many other ecosystem services. But the future of these forests, and the carbon they contain, is highly uncertain. My work aims to resolve key uncertainties associated with the responses of tropical forest structure and function to climate change (high temperatures and drought), with an increasing focus on human-modified forests. I use a variety of approaches,
+from remote sensing to field observations, within the context of large, international collaborations.
 
-I earned my [PhD from the Department of Geography, Environment, and Spatial Sciences at Michigan State University](http://geo.msu.edu/), as a member of [Dr. Kyla Dahlin's](http://geo.msu.edu/people/dahlin-kyla/) [ERSAM LAB](https://www.ersamlab.com/). I also earned my [B.S. in Resource Conservation](https://www.cfc.umt.edu/undergrad/rc/default.php) and a [certificate in GIS Science and Technologies](https://www.cfc.umt.edu/giscertificate/) from the [University of Montana's College of Forestry](https://www.cfc.umt.edu/default.php) in 2015. 
-
-I strive to find practical solutions to natural resource conservation and management issues by utilizing my remote sensing and geospatial research, teaching, and work experience, as well as my background in field-data collection. Through a host of coding languages, software platforms, and field-based skills I enjoy working on complex projects, while bringing cooperators together to build capacity by utilizing my interpersonal and communication skills.
+I am currently a Senior Research Associate at the Deptartment of Forestry, Michigan State University (USA) working in [Scott Stark's Tropical Forest Ecology lab](https://www.canr.msu.edu/people/sstark). In August (2022) I will start a Lecturership position in the Forest Sciences group at Bangor University (Wales, UK). 
