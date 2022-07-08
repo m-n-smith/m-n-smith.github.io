@@ -6,7 +6,7 @@ title: Masters funding opportunity
 
 ## Are you interested in tropical forests and how they are being affected by human activities? Consider applying to this fully funded Masters opportunity at Bangor University to work with me and [Dr. Lars Markesteijn](https://www.bangor.ac.uk/staff/natural-sciences/lars-markesteijn-122281/en), starting this October!
 
-**Please note the <ins>very tight deadline</ins> - we will be reviewing applications on 18th July!**
+**Please note the <ins>very tight deadline</ins> - we will be reviewing applications on <ins>18th July!</ins>**
 
 <ins>Title</ins>: Quantifying changes in tropical forest canopy structure through degradation and recovery pathways using ground-based lidar
 
@@ -23,6 +23,6 @@ Forest canopy structure—the size, quantity, and spatial arrangement of trees a
 
 <ins>To apply</ins>: Please send your CV and a brief statement describing your research interests and background to marielle.smith@bangor.ac.uk. 
 
-<img src="m-n-smith.github.io/images/IMG_2227.jpg" alt="Marielle Smith">
+![Marielle Smith](https://github.com/m-n-smith/m-n-smith.github.io/blob/master/images/IMG_2227.jpg)
 
 
