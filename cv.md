@@ -4,6 +4,6 @@ title: CV
 permalink: /cv/
 ---
 
-You can [view my CV here.]({{m-n-smith.github.io}}/images/Marielle Smith CV for website_V1.pdf)
+You can [view my CV here.]({{m-n-smith.github.io}}/images/Marielle_Smith_CV_for_website_V1.pdf)
 
-![Aaron Kamoske](images/Canopy2_HARVflux_20170820.jpg)
+![Marielle Smith](images/MNS-6930.jpg)
