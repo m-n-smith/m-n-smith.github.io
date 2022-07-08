@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Aaron G. Kamoske, PhD
+name: Marielle N Smith, PhD
 
 # Short bio or description (displayed in the header)
-description: Ecological Remote Sensing | Landscape Ecology | Forest Conservation and Management
+description: Ecosystem ecology | Remote sensing | Tropical forests | Global change
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars1.githubusercontent.com/u/20822317?s=460&v=4
+avatar: #
 
 #
 # Flags below are optional
@@ -18,16 +18,16 @@ avatar: https://avatars1.githubusercontent.com/u/20822317?s=460&v=4
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: akamoske@gmail.com
+  email: marielle.smith@bangor.ac.uk
   facebook:
   flickr:
-  github: akamoske
+  github: m-n-smith
   instagram:
-  linkedin: aaronkamoske
+  linkedin: 
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: akamoske
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  twitter: marielle_smith1
+  stackoverflow: # 
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
@@ -37,11 +37,11 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-127167234-1
+google_analytics: #
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://akamoske.github.io
+url: http://mnsmith.github
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
