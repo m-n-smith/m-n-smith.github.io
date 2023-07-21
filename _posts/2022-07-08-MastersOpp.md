@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Masters funding opportunity
+title: Masters funding opportunity - deadline has passed
 ---
 
 
