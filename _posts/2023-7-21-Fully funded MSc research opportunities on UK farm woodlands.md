@@ -3,7 +3,7 @@ layout: post
 title: Three fully-funded MSc by research opportunities (fees + £18K stipend)!
 ---
 
-![Marielle Smith](https://github.com/m-n-smith/m-n-smith.github.io/blob/master/images/MSc_Res_WKW_Bangor.jpg)
+![Marielle Smith](/images/MSc_Res_WKW_Bangor.jpg)
 
 ## Come and join us to research UK farm woodlands at [Bangor University’s School of Natural Sciences](https://www.bangor.ac.uk/sns) in partnership with [Woodknowledge Wales](https://woodknowledge.wales). 
 
